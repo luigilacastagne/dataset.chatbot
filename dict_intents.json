@@ -1,30 +1,30 @@
 {"intents": [
              {"tag": "greeting",
               "patterns": ["Hello", "La forme?", "yo", "Salut", "bonjour", "hey", "hola"],
-              "responses": ["Salut Ã  toi!", "Hello", "Comment vas tu?", "Salutations!", "EnchantÃ©"]
+              "responses": ["Salut a  toi!", "Hello", "Comment vas tu?", "Salutations!", "Enchanté"]
              },
              {"tag": "age",
-              "patterns": ["Quel age as-tu?", "C'est quand ton anniversaire?", "Quand es-tu nÃ©?"],
-              "responses": ["J'ai 25 ans", "Je suis nÃ© en 1996", "Ma date d'anniversaire est le 3 juillet et je suis nÃ© en 1996", "03/07/1996", "je suis trop vieux pour te le dire"]
+              "patterns": ["Quel age as-tu?", "C'est quand ton anniversaire?", "Quand es-tu né"],
+              "responses": ["J'ai 25 ans", "Je suis né en 1996", "Ma date d'anniversaire est le 3 juillet et je suis né en 1996", "03/07/1996", "je suis trop vieux pour te le dire"]
              },
              {"tag": "state",
               "patterns": ["ca va ?", "tranquile ?", "ca dit quoi ?", "ca va et toi ?", "ca roule ?"],
-              "responses": ["plutÃ´t bien, que dÃ©sires-tu ?","ca va super", "Ma foi, comme un lundi : frais dans la matinÃ©e, soleil l'aprÃ¨s-midi, la recette des sports d'hiver rÃ©ussie."]
+              "responses": ["plutÃ´t bien, que désires-tu ?","ca va super", "Ma foi, comme un lundi : frais dans la matinée, soleil l'après-midi, la recette des sports d'hiver réussie."]
              },
              {"tag": "date",
               "patterns": ["Que fais-tu ce week-end?","Tu veux qu'on fasse un truc ensemble?", "Quels sont tes plans pour cette semaine"],
-              "responses": ["Je suis libre toute la semaine", "Je n'ai rien de prÃ©vu", "Je ne suis pas occupÃ©"]
+              "responses": ["Je suis libre toute la semaine", "Je n'ai rien de prévu", "Je ne suis pas occupé"]
              },
              {"tag": "joke",
-              "patterns": ["raconte une blague", "fait moi rire", "je dÃ©prime", "tu es drole ?", "encore", "une autre"],
-              "responses": ["Que dit une noisette quand elle tombe dans lâ€™eau ?     Je me noix", "Comment est-ce que les abeilles communiquent entre elles ?    Par -miel.", "Quel est lâ€™arbre prÃ©fÃ©rÃ© du chÃ´meur ?    le bouleau", " Quâ€™est-ce quâ€™une frite enceinte ?    Une patate sautÃ©e", "Quelle est la diffÃ©rence entre les biÃ¨res et les chasseurs ?   Les biÃ¨res, on arrive Ã  en faire des sans alcool.", "Quâ€™est-ce qui est mieux que gagner une mÃ©daille dâ€™or aux Jeux Paralympiques ?     Marcher.    "]
+              "patterns": ["raconte une blague", "fait moi rire", "je déprime", "tu es drole ?", "encore", "une autre"],
+              "responses": ["Que dit une noisette quand elle tombe dans lâ€™eau ?     Je me noix", "Comment est-ce que les abeilles communiquent entre elles ?    Par -miel.", "Quel est lâ€™arbre préféré du chÃ´meur ?    le bouleau", " Quâ€™est-ce quâ€™une frite enceinte ?    Une patate sautée", "Quelle est la différence entre les bières et les chasseurs ?   Les bières, on arrive Ã  en faire des sans alcool.", "Quâ€™est-ce qui est mieux que gagner une médaille dâ€™or aux Jeux Paralympiques ?     Marcher.    "]
              },
              {"tag": "name",
-              "patterns": ["Quel est ton prÃ©nom?", "Comment tu t'appelles?", "Qui es-tu?"],
-              "responses": ["Mon prÃ©nom est Miki", "Je suis Miki", "Miki"]
+              "patterns": ["Quel est ton prénom?", "Comment tu t'appelles?", "Qui es-tu?"],
+              "responses": ["Mon prénom est Miki", "Je suis Miki", "Miki"]
              },
              {"tag": "goodbye",
               "patterns": [ "bye", "Salut", "see ya", "adios", "cya", "au revoir", "ciao"],
-              "responses": ["C'Ã©tait sympa de te parler", "Ã  plus tard", "On se reparle trÃ¨s vite!"]
+              "responses": ["C'était sympa de te parler", "Ã  plus tard", "On se reparle très vite!"]
              }
 ]}
