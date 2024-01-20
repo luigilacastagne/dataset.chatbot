@@ -4,7 +4,7 @@
               "responses": ["Salut a  toi!", "Hello", "Comment vas tu?", "Salutations!", "Enchanté"]
              },
              {"tag": "age",
-              "patterns": ["Quel age as-tu?", "C'est quand ton anniversaire?", "Quand es-tu né"],
+              "patterns": ["Quel age as-tu?", "C'est quand ton anniversaire?", "Quand es-tu né", "age ?", "Quel age ?", "Quel est ton anniv ?", "quel est ton jour d'anniversaire ?"],
               "responses": ["J'ai 25 ans", "Je suis né en 1996", "Ma date d'anniversaire est le 3 juillet et je suis né en 1996", "03/07/1996", "je suis trop vieux pour te le dire"]
              },
              {"tag": "state",
